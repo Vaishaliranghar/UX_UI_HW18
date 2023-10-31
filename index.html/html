@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="globals.css" />
+    <link rel="stylesheet" href="styleguide.css" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="home-page">
+      <div class="div">
+        <div class="overlap">
+          <div class="rectangle"></div>
+          <img class="r-COSMIC-WHITE" src="img/r-COSMIC-WHITE-1.png" />
+          <img class="img" src="img/r-COSMIC-WHITE-3.png" />
+          <img class="realforce-patch" src="img/realforce-patch-1.png" />
+          <img class="middle-left-png" src="img/middle-left-2-png-2.png" />
+          <img class="WAVED-banner" src="img/WAVED-banner-2-2.png" />
+          <div class="hero-section">
+            <div class="AI-driven-insights">AI Driven Insights<br />for Enterprise<br />Automation</div>
+            <div class="overlap-group">
+              <p class="text-wrapper">
+                Get started quickly and make your way.Get started quickly and make your way.Get started quickly and make
+                your way. Get started quickly and make your way.
+              </p>
+              <div class="text-wrapper-2">⇴</div>
+              <div class="text-wrapper-3">⇴</div>
+              <div class="text-wrapper-3">⇴</div>
+            </div>
+            <img class="middle-left-png-2" src="img/middle-left-2-png.png" />
+            <div class="button-CTA">
+              <div class="frame">
+                <div class="group">
+                  <div class="overlap-group-2">
+                    <div class="text-wrapper-4">Let’s Begin</div>
+                    <img class="downward-arrows" src="img/downward-arrows-5587327-4663427-1.png" />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="div-2">
+            <div class="text-wrapper-5">#ThePowerOfEverything</div>
+            <div class="text-wrapper-6">REALFORCE</div>
+            <p class="p">Experience Real Estate on world’s #1 CRM</p>
+            <div class="overlap-2">
+              <div class="text-wrapper-7">Explore</div>
+              <img class="downward-arrows-2" src="img/downward-arrows-5587327-4663427-1-5.png" />
+            </div>
+          </div>
+          <div class="overlap-wrapper">
+            <div class="overlap-3">
+              <div class="group-2">
+                <div class="overlap-4">
+                  <div class="people-section">
+                    <div class="overlap-5">
+                      <div class="overlap-group-3">
+                        <img class="group-3" src="img/group-13.png" />
+                        <div class="ellipse"></div>
+                        <img class="group-4" src="img/group-5.png" />
+                        <img class="rectangle-2" src="img/rectangle-235.svg" />
+                        <img class="image" src="img/image-24.png" />
+                      </div>
+                      <div class="ellipse-2"></div>
+                      <div class="ellipse-3"></div>
+                    </div>
+                    <div class="text-wrapper-8">Supported by our Maverics</div>
+                    <p class="our-team-of-industry">
+                      Our team of&nbsp;&nbsp;Industry Experts works Globally from 7 countries providing customer support
+                      across multiple time zones.
+                    </p>
+                  </div>
+                  <div class="cta-section">
+                    <div class="overlap-6">
+                      <p class="the-most">
+                        <span class="span">The </span>
+                        <span class="text-wrapper-9">most customizable&nbsp;&nbsp;platform</span>
+                        <span class="span"> for<br />The most customizable&nbsp;&nbsp;platform </span>
+                      </p>
+                      <button class="overlap-group-wrapper">
+                        <div class="overlap-group-4">
+                          <div class="rectangle-3"></div>
+                          <div class="text-wrapper-10">GET STARTED</div>
+                          <img class="downward-arrows-3" src="img/downward-arrows-5587327-4663427-1-6.png" />
+                        </div>
+                      </button>
+                    </div>
+                  </div>
+                </div>
+                <div class="r-COSMIC-WHITE-wrapper">
+                  <img class="r-COSMIC-WHITE-2" src="img/r-COSMIC-WHITE-2.png" />
+                </div>
+              </div>
+              <div class="section">
+                <div class="overlap-7">
+                  <img class="rectangle-4" src="img/rectangle-234.svg" />
+                  <img class="group-5" src="img/group-7.png" />
+                  <img class="group-6" src="img/group-8.png" />
+                  <div class="frame-2">
+                    <div class="SAP-PARTNERSHIP">SAP PARTNERSHIP<br />Develop tleitle<br />tleitletleitletleitle</div>
+                    <p class="text-wrapper-11">
+                      WooCommerce is developer friendly, too. Built with a REST API, WooCommerce is scalable and can
+                      integrate with virtually any service. Design a complex store from scratch,
+                    </p>
+                    <button class="div-wrapper">
+                      <div class="overlap-group-5">
+                        <div class="text-wrapper-12">CTA</div>
+                        <img class="downward-arrows-4" src="img/downward-arrows-5587327-4663427-1-4.png" />
+                      </div>
+                    </button>
+                  </div>
+                  <div class="frame-3">
+                    <div class="salesforce">Salesforce Partnership<br />Title TitleTitleTitle</div>
+                    <p class="text-wrapper-11">
+                      WooCommerce is one of the fastest-growing eCommerce communities. We’re proud that the helpfulness
+                      of the community and a wealth of online resources are frequently cited as reasons our users love
+                      it. There are 80+ meetups worldwide!
+                    </p>
+                    <button class="div-wrapper">
+                      <div class="overlap-group-6">
+                        <div class="text-wrapper-12">CTA</div>
+                        <img class="downward-arrows-4" src="img/downward-arrows-5587327-4663427-1-3.png" />
+                      </div>
+                    </button>
+                  </div>
+                  <div class="frame-4"></div>
+                  <div class="frame-5"></div>
+                  <img class="SAP-partner-logo" src="img/SAP-partner-logo-1-2-1.png" />
+                </div>
+              </div>
+              <div class="span-wrapper">
+                <div class="span-2">
+                  <div class="frame-wrapper">
+                    <div class="frame-6">
+                      <div class="work-globally">Work Globally ,&nbsp;&nbsp;Globally work</div>
+                      <p class="text-wrapper-13">
+                        In the office, remote, or a mix of the two, with Miro, your team can connect, collaborate, and
+                        co-create in one space no matter where you are.
+                      </p>
+                      <div class="text-wrapper-14">Learn more</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <img class="rectangle-5" src="img/rectangle-236-3.svg" />
+              <img class="rectangle-6" src="img/rectangle-236-2.svg" />
+              <img class="rectangle-7" src="img/image.svg" />
+              <div class="div-3">
+                <img class="salesforce-partner" src="img/salesforce-partner-logo-2.png" />
+                <div class="frame-7">
+                  <p class="our-partners">Our Partners &amp; Strategic Alliance</p>
+                  <p class="text-wrapper-15">
+                    In the office, remote, or a mix of the two, with Miro, your team can connect, collaborate, and
+                    co-create in one space no matter where you are.
+                  </p>
+                </div>
+              </div>
+              <div class="partnerships">
+                <div class="overlap-8">
+                  <div class="div-4">
+                    <div class="div-5">
+                      <img class="img-2" src="img/bithumb.png" />
+                      <div class="bithumb">BITHUMB</div>
+                    </div>
+                    <div class="div-5">
+                      <div class="overlap-group-7">
+                        <img class="img-3" src="img/bitbank-2x-png.png" />
+                        <img class="salesforce-partner-2" src="img/salesforce-partner-logo-1-2.png" />
+                      </div>
+                      <div class="bitbank">BITBANK</div>
+                    </div>
+                    <div class="div-5">
+                      <div class="overlap-group-7">
+                        <img class="img-3" src="img/binance.png" />
+                        <img class="salesforce-partner-2" src="img/image.png" />
+                      </div>
+                      <div class="binance">BINANCE</div>
+                    </div>
+                  </div>
+                  <div class="div-6">
+                    <div class="div-5">
+                      <div class="overlap-group-7">
+                        <img class="img-3" src="img/bitstamp.png" />
+                        <img class="salesforce-partner-2" src="img/salesforce-partner-logo-1-3.png" />
+                      </div>
+                      <div class="bitstamp">BITSTAMP</div>
+                    </div>
+                    <div class="div-5">
+                      <div class="overlap-group-7">
+                        <img class="img-3" src="img/coinbase.png" />
+                        <img class="salesforce-partner-2" src="img/salesforce-partner-logo-1-4.png" />
+                      </div>
+                      <div class="coinbase">COINBASE</div>
+                    </div>
+                    <div class="div-5"><img class="img-2" src="img/bitfinex.png" /></div>
+                  </div>
+                  <div class="div-7">
+                    <div class="div-5">
+                      <img class="img-2" src="img/bithumb-2x-png.png" />
+                      <div class="bithumb">BITHUMB</div>
+                    </div>
+                    <div class="div-5">
+                      <div class="overlap-group-7">
+                        <img class="img-3" src="img/bitbank.png" />
+                        <img class="salesforce-partner-2" src="img/salesforce-partner-logo-1.png" />
+                      </div>
+                      <div class="bitbank">BITBANK</div>
+                    </div>
+                    <div class="div-5">
+                      <div class="overlap-group-7">
+                        <img class="img-3" src="img/binance-2x-png.png" />
+                        <img class="salesforce-partner-2" src="img/salesforce-partner-logo-1-5.png" />
+                      </div>
+                      <div class="binance">BINANCE</div>
+                    </div>
+                  </div>
+                  <div class="div-before"></div>
+                  <div class="div-after"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <img class="rectangle-8" src="img/rectangle-236.svg" />
+          <img class="rectangle-9" src="img/rectangle-237.svg" />
+          <p class="from-RPA-driven-to">
+            <span class="text-wrapper-16">From RPA-driven to data-driven to AI-driven automation, companies </span>
+            <a
+              href="https://www.accenture.com/in-en/insights/artificial-intelligence-summary-index"
+              target="_blank"
+              rel="noopener noreferrer"
+              ><span class="text-wrapper-17">using AI</span></a
+            >
+            <span class="text-wrapper-16">
+              to advance their automation journey are infusing intelligence into IT and business processes to make
+              systems more resilient, predictive and adaptable.<br
+            /></span>
+          </p>
+          <div class="rectangle-10"></div>
+          <div class="text-wrapper-18">Know more</div>
+          <div class="text-wrapper-19">RPA</div>
+          <div class="re-think-technology">Re-think Technology,<br />Re-build Business</div>
+          <img class="downward-arrows-5" src="img/downward-arrows-5587327-4663427-1-2.png" />
+          <div class="service-section-wrapper">
+            <div class="service-section">
+              <div class="frame-8"></div>
+              <div class="frame-9"></div>
+              <div class="frame-10"></div>
+              <div class="re-think-technology-2">Re-think Technology,<br />Re-build Business</div>
+              <div class="re-think-technology-3">Re-think Technology,<br />Re-build Business</div>
+              <div class="re-think-technology-4">Re-think Technology,<br />Re-build Business</div>
+            </div>
+          </div>
+        </div>
+        <div class="footer-section">
+          <img class="ic-baseline" src="img/ic-baseline-copyright.svg" />
+          <div class="frame-11">
+            <div class="simplifying-problems-wrapper">
+              <p class="simplifying-problems">
+                <span class="text-wrapper-20">Simplifying</span> <span class="text-wrapper-21"> Problems </span>
+              </p>
+            </div>
+            <div class="empowering-customers-wrapper">
+              <p class="empowering-customers">
+                <span class="text-wrapper-22">Empowering</span>
+                <span class="text-wrapper-23">&nbsp;</span>
+                <span class="text-wrapper-21">Customers</span>
+              </p>
+            </div>
+            <div class="enabling-solutions-wrapper">
+              <p class="enabling-solutions">
+                <span class="text-wrapper-20">Enabling</span> <span class="text-wrapper-21"> Solutions</span>
+              </p>
+            </div>
+          </div>
+          <div class="overlap-9">
+            <div class="overlap-10">
+              <div class="element-congress-avenue-wrapper">
+                <p class="element-congress-avenue">
+                  <span class="text-wrapper-24"
+                    >501 Congress Avenue, Suite 150,<br />Austin, Texas, 78701<br /><br
+                  /></span>
+                  <a href="mailto:sales@rialtes.com" target="_blank" rel="noopener noreferrer"
+                    ><span class="text-wrapper-25">sales@rialtes.com</span></a
+                  >
+                </p>
+              </div>
+              <div class="frame-12">
+                <div class="group-7"><div class="text-wrapper-26">ABOUT US</div></div>
+                <div class="text-wrapper-27">SERVICES</div>
+                <div class="text-wrapper-28">INDUSTRIES</div>
+                <div class="text-wrapper-29">INSIGHTS</div>
+                <div class="text-wrapper-30">CONTACT US</div>
+              </div>
+              <div class="about-rialtes"><div class="text-wrapper-31">About Rialtes</div></div>
+              <div class="component">
+                <div class="text-wrapper-31">Enterprise Platform Solutions</div>
+                <div class="text-wrapper-32">Data Analytics</div>
+                <div class="text-wrapper-33">Automation</div>
+                <div class="text-wrapper-34">Quality Engineering</div>
+                <div class="text-wrapper-35">Integration</div>
+                <div class="text-wrapper-36">Business Process Outsourcing</div>
+                <div class="text-wrapper-37">AI</div>
+              </div>
+              <div class="component-2">
+                <div class="text-wrapper-38">Healthcare</div>
+                <div class="text-wrapper-39">Real Estate</div>
+                <div class="text-wrapper-40">Finance</div>
+                <div class="text-wrapper-41">Hi-Tech</div>
+                <div class="text-wrapper-42">Manufacturing</div>
+              </div>
+              <div class="component-3">
+                <div class="text-wrapper-43">Blogs</div>
+                <div class="text-wrapper-44">Events</div>
+                <div class="text-wrapper-45">Customer Stories</div>
+                <div class="overlap-group-8">
+                  <div class="text-wrapper-46">Webinar</div>
+                  <div class="news-press-releases">News &amp;Press Releases</div>
+                </div>
+              </div>
+            </div>
+            <div class="text-wrapper-47">PRODUCTS</div>
+            <div class="leadership-team"><div class="text-wrapper-31">Leadership Team</div></div>
+            <div class="global-offices"><div class="text-wrapper-31">Global Offices</div></div>
+            <div class="carrers"><div class="text-wrapper-31">Careers</div></div>
+            <div class="realforce"><div class="text-wrapper-31">Realforce</div></div>
+            <img class="frame-13" src="img/frame-90.png" />
+          </div>
+          <img class="line" src="img/line-3.svg" />
+          <img class="line-2" src="img/line-4.svg" />
+          <div class="text-wrapper-48">Privacy Policy</div>
+          <p class="text-wrapper-49">2023 Rialtes Technologies LLC. All Right Reserved</p>
+          <img class="line-3" src="img/line-5.svg" />
+          <img class="line-4" src="img/line-7.svg" />
+          <div class="terms-of-use"><div class="text-wrapper-50">Terms of Use</div></div>
+          <img class="BACK-TO-TOP" src="img/BACK-TO-TOP.svg" />
+        </div>
+        <div class="header-navigation">
+          <div class="overlap-11">
+            <div class="main-primary">
+              <div class="about-us"><div class="text-wrapper-51">About Us</div></div>
+              <div class="products"><div class="text-wrapper-52">Products</div></div>
+              <div class="services"><div class="text-wrapper-53">Services</div></div>
+              <div class="industries"><div class="text-wrapper-54">Industries</div></div>
+              <div class="insights"><div class="text-wrapper-55">Insights</div></div>
+              <div class="partner"><div class="text-wrapper-56">Partners</div></div>
+            </div>
+            <img class="RIALTES-LOGO-v" src="img/RIALTES-LOGO-v-02-1.png" />
+            <div class="button-getstarted"><div class="text-wrapper-57">Let’s Begin</div></div>
+            <img class="icon-search" src="img/icon-search.svg" />
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
